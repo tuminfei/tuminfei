@@ -1,5 +1,10 @@
 ### Hi there 👋 Know more about me 😄
 
+![collaborative](https://img.shields.io/badge/-collaborative-green)
+![ambitious](https://img.shields.io/badge/-ambitious-blue)
+![curious](https://img.shields.io/badge/-curious-orange)
+![empathetic](https://img.shields.io/badge/-empathetic-purple)
+![open-minded](https://img.shields.io/badge/-open--minded-9cf)
 
 My name is Terry.Tu, nice to meet you!
 
