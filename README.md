@@ -21,3 +21,6 @@ I have a deep passion for the crypto space and all things related to decentraliz
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
 ![Solidity](https://img.shields.io/static/v1?style=for-the-badge&message=Solidity&color=363636&logo=Solidity&logoColor=FFFFFF&label=)
 
+
+Dedicate yourself completely to everything you love.
+
