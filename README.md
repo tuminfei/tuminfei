@@ -6,11 +6,12 @@
 ![empathetic](https://img.shields.io/badge/-empathetic-purple)
 ![open-minded](https://img.shields.io/badge/-open--minded-9cf)
 
-My name is Terry.Tu, nice to meet you!
 
-Hello everyone! I'm a backend developer with over 10 years of experience in the field. I have spent the past 5 years focusing on web3 development, and it has been an exciting journey.
+Hello, I'm Terry Tu, delighted to make your acquaintance!
 
-I have a deep passion for the crypto space and all things related to decentralized technologies. Working with blockchain, smart contracts, and decentralized applications (DApps) has been a thrilling experience for me. I am constantly exploring innovative solutions and pushing the boundaries of what's possible.
+Greetings to all! I bring over a decade of experience as a backend developer, with a dedicated focus on web3 development for the past 5 years, making for an exhilarating journey.
+
+My enthusiasm lies deeply in the crypto space and everything connected to decentralized technologies. Engaging with blockchain, smart contracts, and decentralized applications (DApps) has been an exciting adventure for me. I am continually delving into inventive solutions, pushing the limits of what can be achieved.
 
 ### Technology Stack
 
