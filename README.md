@@ -28,4 +28,4 @@ Dedicate yourself completely to everything you love.
 
 ### 📜 Certificate
 
-![Certificate](./WCHL.png)
+<center><img src="./WCHL.png" alt="jpg name" width="50%"/></center>
