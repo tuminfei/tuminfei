@@ -26,3 +26,6 @@ My enthusiasm lies deeply in the crypto space and everything connected to decent
 
 Dedicate yourself completely to everything you love.
 
+### 📜 Certificate
+
+![Certificate](./WCHL.png)
